@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWdrY3UwdnRwemVjbzlmZWhyZDByZzh6bjNuaXRnZHFwZ21tYTM4eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bJ4TVNYNUympPgcpem/giphy.gif"  />
+  <img height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWdrY3UwdnRwemVjbzlmZWhyZDByZzh6bjNuaXRnZHFwZ21tYTM4eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bJ4TVNYNUympPgcpem/giphy.gif"  />
 </div>
 
 ###
@@ -11,7 +11,7 @@
 
 ###
 
-<h1 align="center">Hey There!, I am Shivam, a second year undergrad student, and I like to learn!</h1>
+<h1 align="center">Hey There!, I am Shivam and I like to learn!</h1>
 
 ###
 
@@ -33,6 +33,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
 </div>
 
 ###
